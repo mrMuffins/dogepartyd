@@ -1,4 +1,6 @@
 # Description
+
+[![Join the chat at https://gitter.im/mrMuffins/dogepartyd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mrMuffins/dogepartyd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Dogeparty is a fork of Counterparty, a protocol for the creation and use of decentralised financial
 instruments such as asset exchanges, contracts for difference and dividend
 payments. It uses Dogecoin as a transport layer. The contents of this
